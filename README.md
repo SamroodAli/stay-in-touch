@@ -2,6 +2,9 @@
 A social media app where you can meet new people, request friendships, create and like posts.
 Share with the world the people the stories you have. Discuss what's popular with your friends.
 
+## Deployment
+- Heroku Link: [Click here](https://samrood-stay-in-touch.herokuapp.com/)
+
 ![Screenshot of the app](./app-ss-requests.png)
 ![Screenshot of the app](./app-ss-home-page.png)
 ## Getting started
